@@ -1,4 +1,3 @@
-Collecting workspace informationBelow is a suggested content for your README file:
 
 ```markdown
 # Human Activity Recognition (HAR) System
